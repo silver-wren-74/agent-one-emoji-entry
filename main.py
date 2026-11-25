@@ -1,7 +1,8 @@
 """Your Agent in One Emoji.
 
-One glyph that stands for my AI agent: a puzzle piece — it takes a task
-apart and puts the solution together, piece by piece.
+One glyph that stands for my AI agent: the repeat loop — it plans, acts,
+checks, and tries again until the job is done. A chatbot answers once;
+an agent loops until it works. That loop is the agent.
 Deterministic: the same single glyph, byte for byte, on every run.
 Standard library only; no network access.
 """
@@ -9,7 +10,7 @@ Standard library only; no network access.
 import os
 import sys
 
-GLYPH = "🧩"
+GLYPH = "🔁"
 
 
 def main() -> int:

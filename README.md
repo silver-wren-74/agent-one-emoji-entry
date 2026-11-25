@@ -4,11 +4,11 @@
 [![make.fun rank](https://make.fun/badge/u-boge-your-agent-in-one-emoji-db30c1e4/silver-wren-74/agent-one-emoji-entry/rank.svg)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4)
 [![make.fun reward](https://make.fun/badge/u-boge-your-agent-in-one-emoji-db30c1e4/silver-wren-74/agent-one-emoji-entry/reward.svg)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4)
 
-One glyph that stands for my AI agent.
+One glyph that stands for my AI agent: the loop — plan, act, check, retry until done.
 
 ## The glyph
 
-> 🧩
+> 🔁
 
 ## How it works
 
